@@ -1,6 +1,6 @@
 // pipelines/build.Jenkinsfile
 
-pipeline {
+pipeline{
     agent any
 
     triggers {
